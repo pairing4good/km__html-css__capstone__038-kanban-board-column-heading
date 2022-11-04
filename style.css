@@ -1,10 +1,7 @@
 /* Do not change this file for this exercise*/
 
-.card {
-    border: solid;
-    margin: 10px;
-    box-shadow: 3px 3px lightgray;
-    width: 175px;
+.board {
+    display: flex;
 }
 
 .task-status {
